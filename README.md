@@ -4,7 +4,7 @@
 ------------------------
 ### Introduction
 
-LT (lost Things) is an application 
+LT (lost Things) is an application ......
 
 
 ### Full Documentation
