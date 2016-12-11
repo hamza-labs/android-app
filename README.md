@@ -1,5 +1,7 @@
-### LT Application <a> <img src='https://raw.githubusercontent.com/m2ssio/LostThings/master/lost-found-0413.jpg' align='right' width='150'></a>
-------------------------
+<img src="http://cdn.techpp.com/wp-content/uploads/2013/11/lostandfound1.png" width='150' >
+
+### LT - LOST THINGS
+--------------------
 ### Introduction
 
 LT (lost Things) is an application based on C.A.L.M.S, Yes we are using the modern DevOps SDLC. 
