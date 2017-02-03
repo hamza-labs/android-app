@@ -4,13 +4,8 @@
 --------------------
 ### Introduction
 
-LT (lost Things) is an application based on C.A.L.M.S, Yes we are using the modern DevOps SDLC. 
+LT (lost Things) is an application ...
 
-* C – Culture
-* A – Automation
-* L – Lean
-* M – Measurement
-* S – Sharing
 
 ### Full Documentation
 See the [Wiki](https://github.com/m2ssio/LostThings/wiki) for full documentation, examples, operational details and other information.
