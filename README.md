@@ -25,4 +25,5 @@ See the [Wiki](https://github.com/m2ssio/LostThings/wiki) for full documentation
 For bugs, questions and discussions please use the [Github Issues](https://github.com/m2ssio/lower/issues).
 
 ### Contact us
-at: <siote.inc@gmail.com>
+at: <assia.bakrim@gmail.com> <hamzaelghoujdami@gmail.com>
+
