@@ -22,7 +22,7 @@ See the [Wiki](https://github.com/m2ssio/LostThings/wiki) for full documentation
 - <https://www.facebook.com/assia.bakrim>
 
 ### Bugs and Feedback
-For bugs, questions and discussions please use the [Github Issues](https://github.com/m2ssio/lower/issues).
+For bugs, questions and discussions please use the [Github Issues](https://github.com/m2ssio/lost/issues).
 
 ### Contact us
 at: <assia.bakrim@gmail.com> 
