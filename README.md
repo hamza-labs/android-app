@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/m2ssio/lost/master/img/lostfound-icon.png" width='250' >
+<img style="float: left;" src="https://raw.githubusercontent.com/m2ssio/lost/master/img/lostfound-icon.png">
+
 
 ### LT - LOST THINGS
 --------------------
