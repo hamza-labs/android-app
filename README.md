@@ -1,4 +1,4 @@
-Welcome to Lost Found Application 
+### Welcome to Lost Found Application 
 
 <img style="float: left;" src="https://raw.githubusercontent.com/m2ssio/lost/master/img/lostfound-icon.png">
 
