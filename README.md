@@ -10,12 +10,6 @@ See the [Wiki](https://github.com/m2ssio/LostThings/wiki) for full documentation
 **Hamza EL GHOUJDAMI**
 
 - <hamzaelghoujdami@gmail.com>
-- <https://www.facebook.com/roujdami>
-
-**Assia BAKRIM**
-
-- <assia.bakrim@gmail.com>
-- <https://www.facebook.com/assia.bakrim>
 
 ### Bugs and Feedback
 For bugs, questions and discussions please use the [Github Issues](https://github.com/m2ssio/lost/issues).
